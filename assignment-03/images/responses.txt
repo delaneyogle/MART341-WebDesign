@@ -1,1 +1,3 @@
-hello
+The relationship between an IP address and the DNS is the fact that DNS translates the domain names to the IP address.
+A cookie is a piece of data that are stored within a web browser by a website. The website is able to then retrieve the information at another time. 
+The 3 essential parts of a URL are the protocol, domain, and the path make up.
