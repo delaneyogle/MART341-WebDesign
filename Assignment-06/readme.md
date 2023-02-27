@@ -1,0 +1,1 @@
+The difference between semantic elements and sturctural elements is the fact that semantic elements are explaining the purpose behind an element, rather than explaining how the content relates to the other content within the document.
