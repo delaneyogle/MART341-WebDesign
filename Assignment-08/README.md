@@ -1,4 +1,4 @@
-[Screenshot](https://github.com/delaneyogle/MART341-WebDesign/blob/main/assignment-07/images/screenshot.jpg)
+[Screenshot](https://github.com/delaneyogle/MART341-WebDesign/blob/main/Assignment-08/Images/screenshot.jpg)
 ![screenshot](./Images/screenshot.jpg)
 
 An affordance is how the design aspect of the object suggests how the object will/could be used.
